@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# Jet2 demo site
+A simple demonstration of a jet2 page on EDS
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--jet2--cpilsworth.hlx.page/
+- Live: https://main--jet2--cpilsworth.hlx.live/
 
 ## Installation
 
